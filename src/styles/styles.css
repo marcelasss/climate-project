@@ -131,3 +131,14 @@ body {
 #wind_icon {
     color: #959dc2;
 }
+
+#alert{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#alert img{
+    width: 200px;
+    margin-top: 20px;
+}
